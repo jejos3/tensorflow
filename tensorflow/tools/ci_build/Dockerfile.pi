@@ -1,4 +1,4 @@
-FROM ubuntu:14.04
+FROM ubuntu:bionic
 
 LABEL maintainer="Jan Prach <jendap@google.com>"
 
